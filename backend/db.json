@@ -1,0 +1,33 @@
+{
+    "products": [{
+        "id": 1,
+        "name": "Caneta Bic Preta",
+        "price": 5.89
+    },
+    {
+        "id": 2,
+        "name": "Notebook Mac Pro",
+        "price": 12000.89
+    },
+    {
+        "id": 3,
+        "name": "Samsung S20+",
+        "price": 500.89
+    },
+    {
+        "id": 4,
+        "name": "Geladeira",
+        "price": 1913.99
+    },
+    {
+        "id": 5,
+        "name": "Blu-Ray",
+        "price": 754.59
+    },
+    {
+        "id": 6,
+        "name": "TV-43",
+        "price": 1699.89
+    }        
+    ]
+}
